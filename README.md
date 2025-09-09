@@ -15,7 +15,7 @@
     fun_fact = "I'm going carzy"
 	hobbies = [
 				'Music',
-        'Chilling',
+        		'Chilling',
 			 	'Gaming',
 				'Sci-Fi Movies'
 			]
@@ -38,7 +38,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![]()
 ![]()
 ![]()
