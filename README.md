@@ -36,31 +36,84 @@
 </div>
 
 <div align="center">
-  <h3>⚔️ Hotbar (Tech Stack)</h3>
   
-  <table>
+  <h3>🎒 Full Inventory & Equipment</h3>
+
+  <table border="0">
+    
+    <!-- Linha 1: Front-end -->
     <tr>
-      <td align="center" width="90px">
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"><br>
-        <sub>Main Hand</sub>
+      <td align="center" width="100px">
+        <b>🗡️ Melee <br>(Front-end)</b>
       </td>
-      <td align="center" width="90px">
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"><br>
-        <sub>Off Hand</sub>
-      </td>
-      <td align="center" width="90px">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><br>
-        <sub>Ammo</sub>
-      </td>
-      <td align="center" width="90px">
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"><br>
-        <sub>Accessory</sub>
-      </td>
-      <td align="center" width="90px">
-        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"><br>
-        <sub>Crafting</sub>
+      <td>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+        <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB">
+        <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+        <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
       </td>
     </tr>
+
+    <!-- Linha 2: Back-end -->
+    <tr>
+      <td align="center">
+        <b>🔮 Magic <br>(Back-end)</b>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Java_(Learning)-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+      </td>
+    </tr>
+
+    <!-- Linha 3: Database -->
+    <tr>
+      <td align="center">
+        <b>⚗️ Potions <br>(Data/Cloud)</b>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+        <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+      </td>
+    </tr>
+
+    <!-- Linha 4: IDEs (NOVO) -->
+    <tr>
+      <td align="center">
+        <b>🪑 Stations <br>(IDEs)</b>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+        <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white">
+      </td>
+    </tr>
+
+    <!-- Linha 5: Design (NOVO) -->
+    <tr>
+      <td align="center">
+        <b>📐 Plans <br>(Design)</b>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+        <img src="https://img.shields.io/badge/Mermaid_JS-FF3670?style=for-the-badge&logo=mermaid&logoColor=white">
+      </td>
+    </tr>
+
+    <!-- Linha 6: Tools -->
+    <tr>
+      <td align="center">
+        <b>🛠️ Tools <br>(DevOps)</b>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+        <img src="https://img.shields.io/badge/Deploy-000000?style=for-the-badge&logo=vercel&logoColor=white">
+      </td>
+    </tr>
+    
   </table>
 </div>
 
