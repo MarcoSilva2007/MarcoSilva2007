@@ -4,9 +4,8 @@
 <div align="center">
   <img src="./terraria.gif" width="100%" height="50%" style="border-radius: 10px;">
 </div>
-
+<br><br>
 <img src="https://img.shields.io/badge/👤_WHO_AM_I_-Player_Info-20232a?style=for-the-badge&color=0d1117">
-  <br><br>
 
  ```java
   class WhoAmI {
