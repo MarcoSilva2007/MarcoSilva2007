@@ -3,7 +3,7 @@
 
 <div align="center">
   <!-- Substitua 'NOME_DO_ARQUIVO.gif' pelo nome exato que você subiu -->
-  <img src="./terraria.gif" width="100%" style="border-radius: 10px;">
+  <img src="./terraria.gif" width="100%" height="50%" style="border-radius: 10px;">
 </div>
 
 ## Hi there, welcome to my page. Who am I?
