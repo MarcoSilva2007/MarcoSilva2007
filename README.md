@@ -37,46 +37,59 @@
   <img src="https://pixel-profile.vercel.app/api/github-stats?username=MarcoSilva2007&screen_effect=true&background=linear-gradient(to%20bottom,%20%235c86c4,%20%232b3659)&color=white" width="1600">
 </div>
 <div align="center">
+  
+  <!-- Título Inventory (Fonte Pixelada) -->
+  <img src="https://fontmeme.com/permalink/250126/3673752e00810793574222045500ce43.png" alt="Inventory">
   <br><br>
-  <table border="0">
+  <table border="0" cellspacing="0" cellpadding="5">
     <tr>
       <td colspan="5" align="center">
-        <b>⚔️ Weapons & Magic (Development)</b>
+        <img src="https://fontmeme.com/permalink/250126/f104d41e7f09f257252277864f728266.png" height="20">
+        <br>
+        <sub>(Development)</sub>
       </td>
     </tr>
     <tr>
-      <td align="center"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" width="100%"></td>
-      <td align="center"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" width="100%"></td>
-      <td align="center"><img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" width="100%"></td>
-      <td align="center"><img src="https://img.shields.io/badge/Node-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" width="100%"></td>
-      <td align="center"><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" width="100%"></td>
+      <td><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" width="100%"></td>
+      <td><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" width="100%"></td>
+      <td><img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" width="100%"></td>
+      <td><img src="https://img.shields.io/badge/Node-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" width="100%"></td>
+      <td><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" width="100%"></td>
     </tr>
     <tr>
-      <td align="center"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" width="100%"></td>
-      <td align="center"><img src="https://img.shields.io/badge/TS-007ACC?style=for-the-badge&logo=typescript&logoColor=white" width="100%"></td>
-      <td align="center"><img src="https://img.shields.io/badge/JS-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width="100%"></td>
-      <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="100%"></td>
-      <td align="center">Empty Slot</td> <!-- Espaço vazio para futura skill -->
-    </tr>
-    <tr>
-      <td colspan="5" align="center">
-        <br><b>🛠️ Tools & Blueprints (Design & Data)</b>
+      <td><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" width="100%"></td>
+      <td><img src="https://img.shields.io/badge/TS-007ACC?style=for-the-badge&logo=typescript&logoColor=white" width="100%"></td>
+      <td><img src="https://img.shields.io/badge/JS-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width="100%"></td>
+      <td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="100%"></td>
+      <!-- EMPTY SLOT VISUAL -->
+      <td align="center">
+         <img src="https://placehold.co/100x28/202020/606060?text=Empty" width="100%" style="border-radius:3px;">
       </td>
     </tr>
     <tr>
-      <td align="center"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" width="100%"></td>
-      <td align="center"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" width="100%"></td>
-      <td align="center"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" width="100%"></td>
-      <td align="center"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" width="100%"></td>
-      <td align="center"><img src="https://img.shields.io/badge/Mongo-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" width="100%"></td>
+      <td colspan="5" align="center">
+        <br>
+        <img src="https://fontmeme.com/permalink/250126/4553202970a0499e743a4ec0e729a8a7.png" height="20">
+        <br>
+        <sub>(Design & Data)</sub>
+      </td>
     </tr>
     <tr>
-      <td align="center"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" width="100%"></td>
-      <td align="center"><img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" width="100%"></td>
-      <td align="center"><img src="https://img.shields.io/badge/Mermaid-FF3670?style=for-the-badge&logo=mermaid&logoColor=white" width="100%"></td>
-      <td align="center"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" width="100%"></td>
-      <td align="center"><img src="https://img.shields.io/badge/Deploy-000000?style=for-the-badge&logo=vercel&logoColor=white" width="100%"></td>
+      <td><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" width="100%"></td>
+      <td><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" width="100%"></td>
+      <td><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" width="100%"></td>
+      <td><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" width="100%"></td>
+      <td><img src="https://img.shields.io/badge/Mongo-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" width="100%"></td>
     </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" width="100%"></td>
+      <td><img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" width="100%"></td>
+      <td><img src="https://img.shields.io/badge/Mermaid-FF3670?style=for-the-badge&logo=mermaid&logoColor=white" width="100%"></td>
+      <td><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" width="100%"></td>
+      <td><img src="https://img.shields.io/badge/Deploy-000000?style=for-the-badge&logo=vercel&logoColor=white" width="100%"></td>
+    </tr>
+
+  </table>
 </div>
 
 <div align="center">
