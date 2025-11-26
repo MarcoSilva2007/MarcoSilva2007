@@ -3,8 +3,7 @@
 
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
-## Hi there, welcome to my page. 
-#Who am I?
+## Hi there, welcome to my page. Who am I?
 
  ```python
   class WhoAmI:
