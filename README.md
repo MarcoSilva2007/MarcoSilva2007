@@ -36,7 +36,6 @@
 </div>
 
 <div align="center">
-  <img src="https://fontmeme.com/permalink/250126/f8c0570659639534928230718698110b.png" height="50px">
   <br><br>
   <table border="0">
     <tr>
