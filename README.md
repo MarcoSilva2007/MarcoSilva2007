@@ -6,7 +6,9 @@
   <img src="./terraria.gif" width="100%" height="50%" style="border-radius: 10px;">
 </div>
 
-## Hi there, welcome to my page. Who am I?
+<div align="center">
+  <img src="https://fontmeme.com/permalink/250126/66324225301389c0957597116853240e.png" alt="Who Am I?">
+</div>
 
  ```java
   class WhoAmI {
@@ -78,7 +80,7 @@
 </div>
 
 <div align="center">
-  <h3>🎮 Join Party (Socials)</h3>
+  <img src="https://fontmeme.com/permalink/250126/e182479679f048e424268153c9459588.png" alt="Join Party">
   
   <a href="https://www.linkedin.com/in/marco-antonio-silva-108757382/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
