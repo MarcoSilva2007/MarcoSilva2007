@@ -3,8 +3,6 @@
 
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
-## <h1 align="center">  <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-
 ## Who am I?
 
  ```python
