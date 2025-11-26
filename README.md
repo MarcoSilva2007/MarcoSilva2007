@@ -8,8 +8,6 @@
 
 ## Hi there, welcome to my page. Who am I?
 
-<div align="center">
-
  ```java
   class WhoAmI {
     public static void main(String[] args) {
@@ -75,4 +73,15 @@
   <a href="mailto:SEU_EMAIL" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
+</div>
+
+<br>
+<div align="center">
+<details>
+  <summary><b>🎁 Open Gold Chest (Click me!)</b></summary>
+  <br>
+  <p>You found my secret loot!</p>
+  <img src="https://media.tenor.com/On7KvX4vEBYAAAAi/terraria-dance.gif" width="100">
+  <p>Currently listening to: <b>Terraria Day Theme</b> 🎵</p>
+</details>
 </div>
