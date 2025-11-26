@@ -36,6 +36,7 @@
 <div align="center">
   <img src="https://pixel-profile.vercel.app/api/github-stats?username=MarcoSilva2007&screen_effect=true&background=linear-gradient(to%20bottom,%20%235c86c4,%20%232b3659)&color=white" width="1600">
 </div>
+<br></br>
 <div align="center">
   
   <!-- Título do Inventário -->
@@ -78,8 +79,9 @@
   <img src="https://img.shields.io/badge/Mermaid-FF3670?style=for-the-badge&logo=mermaid&logoColor=white" height="28">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="28">
   <img src="https://img.shields.io/badge/Deploy-000000?style=for-the-badge&logo=vercel&logoColor=white" height="28">
-
 </div>
+
+<br></br>
 
 <div align="center">
   <img src="https://fontmeme.com/permalink/250126/e182479679f048e424268153c9459588.png" alt="Join Party">
@@ -95,4 +97,3 @@
 </a>
 </div>
 
-<br></br>
