@@ -40,8 +40,6 @@
   <h3>🎒 Full Inventory & Equipment</h3>
 
   <table border="0">
-    
-    <!-- Linha 1: Front-end -->
     <tr>
       <td align="center" width="100px">
         <b>🗡️ Melee <br>(Front-end)</b>
@@ -55,8 +53,6 @@
         <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
       </td>
     </tr>
-
-    <!-- Linha 2: Back-end -->
     <tr>
       <td align="center">
         <b>🔮 Magic <br>(Back-end)</b>
@@ -67,8 +63,6 @@
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
       </td>
     </tr>
-
-    <!-- Linha 3: Database -->
     <tr>
       <td align="center">
         <b>⚗️ Potions <br>(Data/Cloud)</b>
@@ -79,8 +73,6 @@
         <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
       </td>
     </tr>
-
-    <!-- Linha 4: IDEs (NOVO) -->
     <tr>
       <td align="center">
         <b>🪑 Stations <br>(IDEs)</b>
@@ -90,8 +82,6 @@
         <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white">
       </td>
     </tr>
-
-    <!-- Linha 5: Design (NOVO) -->
     <tr>
       <td align="center">
         <b>📐 Plans <br>(Design)</b>
@@ -101,8 +91,6 @@
         <img src="https://img.shields.io/badge/Mermaid_JS-FF3670?style=for-the-badge&logo=mermaid&logoColor=white">
       </td>
     </tr>
-
-    <!-- Linha 6: Tools -->
     <tr>
       <td align="center">
         <b>🛠️ Tools <br>(DevOps)</b>
