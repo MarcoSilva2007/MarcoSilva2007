@@ -28,6 +28,10 @@
 		TravelToSwitzerland()
 	
  ```
+<div align="center">
+  <img src="https://pixel-profile.vercel.app/api/github-stats?username=MarcoSilva2007&screen_effect=true&background=linear-gradient(to%20bottom,%20%235c86c4,%20%232b3659)&color=white" width="600">
+</div>
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 <p align="center">
