@@ -1,7 +1,9 @@
 <!-- RAINBOW LINE TOP -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
+<div align="center">
+  <img src="https://media.tenor.com/tHj4UvF5EZEAAAAC/terraria-rain.gif" width="100%" alt="Terraria Rain Banner">
+</div>
 
 ## Hi there, welcome to my page. Who am I?
 
