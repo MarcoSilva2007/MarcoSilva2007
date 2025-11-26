@@ -2,13 +2,11 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <div align="center">
-  <!-- Substitua 'NOME_DO_ARQUIVO.gif' pelo nome exato que você subiu -->
   <img src="./terraria.gif" width="100%" height="50%" style="border-radius: 10px;">
 </div>
 
-<div align="center">
-  <img src="https://fontmeme.com/permalink/250126/66324225301389c0957597116853240e.png" alt="Who Am I?">
-</div>
+<img src="https://img.shields.io/badge/👤_WHO_AM_I_-Player_Info-20232a?style=for-the-badge&color=0d1117">
+  <br><br>
 
  ```java
   class WhoAmI {
