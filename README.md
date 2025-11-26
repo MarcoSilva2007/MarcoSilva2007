@@ -38,58 +38,47 @@
 </div>
 <div align="center">
   
-  <!-- Título Inventory (Fonte Pixelada) -->
-  <img src="https://fontmeme.com/permalink/250126/3673752e00810793574222045500ce43.png" alt="Inventory">
+  <!-- Título do Inventário -->
+  <!-- Substitua pelo link da sua imagem do Textcraft se preferir a fonte do jogo -->
+  <img src="https://img.shields.io/badge/INVENTORY-Tech_Stack-2c2c2c?style=for-the-badge&logo=terraria&logoColor=white">
   <br><br>
-  <table border="0" cellspacing="0" cellpadding="5">
-    <tr>
-      <td colspan="5" align="center">
-        <img src="https://fontmeme.com/permalink/250126/f104d41e7f09f257252277864f728266.png" height="20">
-        <br>
-        <sub>(Development)</sub>
-      </td>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" width="100%"></td>
-      <td><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" width="100%"></td>
-      <td><img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" width="100%"></td>
-      <td><img src="https://img.shields.io/badge/Node-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" width="100%"></td>
-      <td><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" width="100%"></td>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" width="100%"></td>
-      <td><img src="https://img.shields.io/badge/TS-007ACC?style=for-the-badge&logo=typescript&logoColor=white" width="100%"></td>
-      <td><img src="https://img.shields.io/badge/JS-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width="100%"></td>
-      <td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="100%"></td>
-      <!-- EMPTY SLOT VISUAL -->
-      <td align="center">
-         <img src="https://placehold.co/100x28/202020/606060?text=Empty" width="100%" style="border-radius:3px;">
-      </td>
-    </tr>
-    <tr>
-      <td colspan="5" align="center">
-        <br>
-        <img src="https://fontmeme.com/permalink/250126/4553202970a0499e743a4ec0e729a8a7.png" height="20">
-        <br>
-        <sub>(Design & Data)</sub>
-      </td>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" width="100%"></td>
-      <td><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" width="100%"></td>
-      <td><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" width="100%"></td>
-      <td><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" width="100%"></td>
-      <td><img src="https://img.shields.io/badge/Mongo-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" width="100%"></td>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" width="100%"></td>
-      <td><img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" width="100%"></td>
-      <td><img src="https://img.shields.io/badge/Mermaid-FF3670?style=for-the-badge&logo=mermaid&logoColor=white" width="100%"></td>
-      <td><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" width="100%"></td>
-      <td><img src="https://img.shields.io/badge/Deploy-000000?style=for-the-badge&logo=vercel&logoColor=white" width="100%"></td>
-    </tr>
 
-  </table>
+  <!-- LINHA 1: ARMAS (Front-end) -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" height="28">
+  <img src="https://img.shields.io/badge/Node-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="28">
+  <br>
+
+  <!-- LINHA 2: MAGIA (Web & Logic) -->
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/TS-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/JS-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="28">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28">
+  <!-- Slot Vazio Estético -->
+  <img src="https://img.shields.io/badge/Empty-Slot-202020?style=for-the-badge&logoColor=grey" height="28">
+  <br><br>
+
+  <!-- Título Ferramentas -->
+  <img src="https://img.shields.io/badge/TOOLS_&_BLUEPRINTS-Data_&_Design-2c2c2c?style=for-the-badge&logo=terraria&logoColor=white">
+  <br><br>
+
+  <!-- LINHA 3: FERRAMENTAS -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="28">
+  <img src="https://img.shields.io/badge/Mongo-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="28">
+  <br>
+  
+  <!-- LINHA 4: IDEs e Deploy -->
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Mermaid-FF3670?style=for-the-badge&logo=mermaid&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="28">
+  <img src="https://img.shields.io/badge/Deploy-000000?style=for-the-badge&logo=vercel&logoColor=white" height="28">
+
 </div>
 
 <div align="center">
