@@ -8,6 +8,8 @@
 
 ## Hi there, welcome to my page. Who am I?
 
+<div align="center">
+
  ```java
   class WhoAmI {
     public static void main(String[] args) {
