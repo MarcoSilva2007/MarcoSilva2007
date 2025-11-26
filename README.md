@@ -34,20 +34,6 @@
 <div align="center">
   <img src="https://pixel-profile.vercel.app/api/github-stats?username=MarcoSilva2007&screen_effect=true&background=linear-gradient(to%20bottom,%20%235c86c4,%20%232b3659)&color=white" width="1600">
 </div>
-
-<div align="center">
-  <h3>🎮 Join Party (Socials)</h3>
-  
-  <a href="https://www.linkedin.com/in/marco-antonio-silva-108757382/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
-  <a href="mailto:SEU_EMAIL" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://instagram.com/mabs.cj" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-</div>
 <div align="center">
   <br><br>
   <table border="0">
@@ -91,3 +77,18 @@
     </tr>
 </div>
 
+<br></br>
+
+<div align="center">
+  <h3>🎮 Join Party (Socials)</h3>
+  
+  <a href="https://www.linkedin.com/in/marco-antonio-silva-108757382/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+  <a href="mailto:SEU_EMAIL" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://instagram.com/mabs.cj" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+</div>
