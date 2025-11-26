@@ -1,6 +1,11 @@
 <!-- RAINBOW LINE TOP -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
+<div align="center">
+  <!-- Substitua 'NOME_DO_ARQUIVO.gif' pelo nome exato que você subiu -->
+  <img src="./SnowBiome720p.gif" width="100%" style="border-radius: 10px;">
+</div>
+
 ## Hi there, welcome to my page. Who am I?
 
  ```java
