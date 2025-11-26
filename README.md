@@ -77,8 +77,6 @@
     </tr>
 </div>
 
-<br></br>
-
 <div align="center">
   <h3>🎮 Join Party (Socials)</h3>
   
@@ -92,3 +90,5 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 </div>
+
+<br></br>
