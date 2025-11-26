@@ -3,7 +3,7 @@
 
 <div align="center">
   <!-- Substitua 'NOME_DO_ARQUIVO.gif' pelo nome exato que você subiu -->
-  <img src="./SnowBiome720p.gif" width="100%" style="border-radius: 10px;">
+  <img src="./SnowBiome720p(1).gif" width="100%" style="border-radius: 10px;">
 </div>
 
 ## Hi there, welcome to my page. Who am I?
