@@ -69,7 +69,7 @@
 <div align="center">
   <h3>🎮 Join Party (Socials)</h3>
   
-  <a href="[SEU_LINK_DO_LINKEDIN](https://www.linkedin.com/in/marco-antonio-silva-108757382/)" target="_blank">
+  <a href="https://www.linkedin.com/in/marco-antonio-silva-108757382/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
   <a href="mailto:SEU_EMAIL" target="_blank">
