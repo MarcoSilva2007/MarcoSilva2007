@@ -5,27 +5,29 @@
 
 ## Hi there, welcome to my page. Who am I?
 
- ```python
-  class WhoAmI:
-    user = 'Marco Silva'
-	current_edu = "High School"
-    currently_learning = "Java"
-    fun_fact = "I'm going carzy"
-	hobbies = [
-				'Music',
-        		'Chilling',
-			 	'Gaming',
-				'Sci-Fi Movies'
-			]
-	
-	def getCity():
-		return Limeira_Brazil()
-	
-	def Ambitions():
-		BecomeSoftwareDeveloper()
-		TravelToSwitzerland()
-	
- ```
+ ```java
+  class WhoAmI {
+    public static void main(String[] args) {
+        String user = "Marco Silva";
+        String currentEdu = "High School";
+        String learning = "Java";
+        
+        List<String> hobbies = Arrays.asList(
+            "Music", "Chilling", "Gaming", "Sci-Fi Movies"
+        );
+        
+        System.out.println("User: " + user);
+        System.out.println("City: Limeira, Brazil");
+        
+        // Executando ambições...
+        while (alive) {
+            studyHard();
+            becomeSoftwareDeveloper();
+            travelToSwitzerland();
+        }
+    }
+}
+```
 <div align="center">
   <img src="https://pixel-profile.vercel.app/api/github-stats?username=MarcoSilva2007&screen_effect=true&background=linear-gradient(to%20bottom,%20%235c86c4,%20%232b3659)&color=white" width="1600">
 </div>
