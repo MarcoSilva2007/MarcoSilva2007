@@ -76,13 +76,6 @@
       <td align="center"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" width="100%"></td>
       <td align="center"><img src="https://img.shields.io/badge/Deploy-000000?style=for-the-badge&logo=vercel&logoColor=white" width="100%"></td>
     </tr>
-
-  </table>
-  <p>
-    <img src="https://img.shields.io/badge/Coins-Credits-yellow?style=social&logo=stackoverflow"> 
-    <img src="https://img.shields.io/badge/Ammo-Coffee-brown?style=social&logo=buymeacoffee">
-  </p>
-
 </div>
 
 <div align="center">
