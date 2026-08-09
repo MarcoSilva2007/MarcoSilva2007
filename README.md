@@ -10,8 +10,8 @@
  ```java
   class WhoAmI {
     public static void main(String[] args) {
-        String user = "Marco Silva";
-        String currentEdu = "High School";
+        String user = "Marco Antonio";
+        String currentEdu = "College";
         String learning = "Java";
         
         List<String> hobbies = Arrays.asList(
