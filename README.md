@@ -30,9 +30,6 @@
     }
 }
 ```
-<div align="center">
-  <img src="https://pixel-profile.vercel.app/api/github-stats?username=MarcoSilva2007&screen_effect=true&background=linear-gradient(to%20bottom,%20%235c86c4,%20%232b3659)&color=white" width="1600">
-</div>
 <br></br>
 <div align="center">
   
